@@ -1436,6 +1436,12 @@ img.post-image {
     margin-bottom: 30px;
 }
 
+#popular-books #tab-content {
+  
+  border-bottom: 1px solid #E0E0E0;
+  margin-bottom: 30px;
+}
+
 /*----- Best Selling Section Section
 --------------------------------------------------------------*/
 #best-selling {
