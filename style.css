@@ -1875,3 +1875,13 @@ footer#footer {
     width: 100%;
   }
 }
+
+span.badge {
+  margin-left: 5px;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 200px;
+  overflow-x: hidden;
+}
