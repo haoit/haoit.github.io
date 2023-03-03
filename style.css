@@ -1427,8 +1427,13 @@ img.post-image {
 --------------------------------------------------------------*/
 #special-offer,
 #popular-books,
+
 #featured-books {
-    margin-bottom: 100px;
+    margin-bottom: 10px;
+}
+
+#detail-book {
+  margin-bottom: 130px;
 }
 #featured-books .product-list {
   
